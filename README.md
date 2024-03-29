@@ -6,6 +6,6 @@ Python code for **Topic Modelling with BERTtopic in Python**, *submitted to Towa
 Article available from here (TBA)
 
 <p float="left">
-  <img src="BERTopic_Russia.png" width="300" />
-  <img src="heatmap_Arabica.png" width="300" />
+  <img src="BERTopic_Russia.png" width="600" />
+  <img src="heatmap_Arabica.png" width="600" />
 </p>
