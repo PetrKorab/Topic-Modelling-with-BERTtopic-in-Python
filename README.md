@@ -4,4 +4,8 @@ Python code for **Topic Modelling with BERTtopic in Python**, *submitted to Towa
 
 
 Article available from here (TBA)
-![Alt text](https://github.com/PetrKorab/Topic-Modelling-with-BERTtopic-in-Python/blob/main/BERTopic_Russia.png))
+
+<p float="left">
+  <img src="BERTopic_Russia.png" width="100" />
+  <img src="image2.jpg" width="100" />
+</p>
