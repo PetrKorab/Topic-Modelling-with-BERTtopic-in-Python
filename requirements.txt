@@ -3,3 +3,4 @@ bertopic==0.16.0
 ftfy==5.8
 seaborn==0.12.2
 matplotlib==3.8.0
+nltk==3.8.1
