@@ -1,6 +1,6 @@
 # Topic Modelling with BERTtopic in Python
 
-Python code for **Topic Modelling with BERTtopic in Python**, *submitted to Towards Data Science (Medium)*
+Python code for **Topic Modelling with BERTtopic in Python**, *Towards Data Science (Medium)*, 4/1/2024.
 
 
 Article available from ([here](https://towardsdatascience.com/topic-modelling-with-berttopic-in-python-8a80d529de34))
