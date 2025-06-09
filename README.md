@@ -7,4 +7,5 @@ Article available from [here.](https://towardsdatascience.com/topic-modelling-wi
 
 <p float="left">
   <img src="FAST_15_wordclouds.png" width="380" />
+  <img src="BERTopic_Russia.png width="380" />
 </p>
